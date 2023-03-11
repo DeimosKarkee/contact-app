@@ -26,7 +26,8 @@
     "**/*.tsx",
     "src/app/components/Header.jsx",
     "src/app/components/Footer.jsx",
-    "src/app/components/NavBar.jsx"
+    "src/app/components/NavBar.jsx",
+    "src/app/about/page.jsx"
   ],
   "exclude": ["node_modules"]
 }
